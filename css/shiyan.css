@@ -1,0 +1,34 @@
+.fukuang{
+	width: 84px;
+	height: 310px;
+	padding-left: 0px;
+	background-color: #b0b0b0;
+	position: fixed;
+	bottom: 87px;
+	right: 67px;
+	text-align: center;
+}
+.fukuang img{
+	padding-top: 12px;
+}
+.xuxian2{
+	border: 1px dotted #ffffff;
+}
+.fukuang a{
+	text-decoration: none;
+}
+.fukuang a p{
+	font-family: '微软雅黑';
+	font-size: 14px;
+	color: #ffffff;
+	margin: 0px;
+}
+.fukuang li{
+	width: 84px;
+	list-style: none;
+	height: 80px;
+}
+
+.fukuang li:hover{
+	background-color: #8d8d8d;
+}
